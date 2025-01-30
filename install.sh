@@ -55,7 +55,7 @@ if [ -z "$THE_ARCH_BIN" ]; then
 fi
 
 
-curl -kL --progress-bar https://github.com/kevincobain2000/$THIS_PROJECT_NAME/releases/latest/download/$THE_ARCH_BIN -o $THIS_PROJECT_NAME
+curl -kL --progress-bar https://github.com/SuleymanDemirelKazakhstan/gol/releases/latest/download/$THE_ARCH_BIN -o $THIS_PROJECT_NAME
 echo "Downloaded $THIS_PROJECT_NAME"
 chmod +x $THIS_PROJECT_NAME
 
