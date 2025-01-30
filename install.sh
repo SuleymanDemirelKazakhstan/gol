@@ -4,7 +4,7 @@ if [ -z "$BIN_DIR" ]; then
   BIN_DIR=/usr/local/bin
 fi
 
-echo "Installing gol to $BIN_DIR"
+echo "InstallingSUL gol to $BIN_DIR"
 
 THE_ARCH_BIN=''
 THIS_PROJECT_NAME='gol'
